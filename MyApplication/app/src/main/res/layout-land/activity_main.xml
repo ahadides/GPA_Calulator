@@ -80,12 +80,13 @@
         android:hint="@string/enter_grade"
         android:inputType="numberDecimal" />
 
+
     <Button
         android:id="@+id/computeButton"
-        android:layout_width="match_parent"
+        android:layout_width="268dp"
         android:layout_height="wrap_content"
+        android:rotationX="4"
         android:text="@string/compute_gpa" />
-
 
     <TextView
         android:id="@+id/gpaDisplay"
