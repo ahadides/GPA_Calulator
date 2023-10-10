@@ -32,6 +32,7 @@ android {
     buildFeatures {
         viewBinding = true
     }
+    namespace 'edu.farmingdale.bcs421.bcs421_f22_w6_fragmentsdemo'
 }
 
 dependencies {
